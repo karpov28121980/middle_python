@@ -1,0 +1,1 @@
+Python Django Framework Git Docker Redis RabbitMQ CI/CD Kubernetes REST API ООП
